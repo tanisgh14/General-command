@@ -1,5 +1,5 @@
 //tanish verma
-//exp 2 -declaring and intialising of variables
+//exp 2a -declaring and intialising of variables
 //22070123123
 #include <iostream>
 #include<bits/stdc++.h>
@@ -26,3 +26,19 @@ int main()
     cout<<b1<<endl;
     return 0;
 }
+/*output
+2
+5.5
+2.34
+g
+2
+5.5
+2.34
+g
+hello
+1
+*/
+//exp 2a -declaring and intialising of variables
+
+
+
