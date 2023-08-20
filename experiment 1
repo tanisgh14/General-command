@@ -53,7 +53,7 @@ int main()
 
 }
 
-/* Output
+*/ Output
 1st number -20
 2nd number -5
 sum  = 25
