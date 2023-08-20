@@ -1,38 +1,49 @@
 //tanish verma
 //exp 2 -declaring and intialising of variables
 //22070123123
-EXP 1a- To print hello world
+//EXP 1a- To print hello world
 #include<iostream>
 using namespace std;
 int main()
 {
+    //print the word `with:-
     cout<<"HEllo WORLD";
     return 0;
 }
-*/Output
+/*Output
 HEllo WORLD
-/*
+*/
 
 
 
-EXP 1b-To make a calculautor
+//EXP 1b-To make a calculautor
 #include<iostream>
 using namespace std;
 int main()
 {
+    //intialise the variable
     float a, b;
     float sum,sub,mul,div;
+    //taking user input
     cout<<"1st number -";
     cin>>a;
     cout<<"2nd number -";
     cin>>b;
+    //apply operation 1
     sum = a+b;
+    //display output 1
     cout<<"sum  = "<<sum<<endl;
+    //apply operation 2
     sub=a-b;
+    //display output 2
     cout<<"sub ="<<sub<<endl;
+    //apply operation 3
     mul=a*b;
+    //display output 3
     cout<<"mul ="<<mul<<endl;
+    //apply operation 4
     div=a/b;
+    //display output 4
     cout<<"div="<<div<<endl;
 
 
@@ -42,11 +53,13 @@ int main()
 
 }
 
-*/Output
+
+/*Output
 1st number -20
 2nd number -5
 sum  = 25
 sub =15
 mul =100
 div=4
-/*
+*/
+
